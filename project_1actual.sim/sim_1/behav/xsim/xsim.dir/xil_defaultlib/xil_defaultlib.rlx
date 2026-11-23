@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/ambre/project_1actual/project_1actual.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/ambre/project_1actual/project_1actual.srcs/sim_1/imports/DAV LAB 1/display_tb.sv,1794161000,systemVerilog,,,,display_tb,,uvm,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ambre/project_1actual/project_1actual.srcs/sim_1/imports/DAV LAB 1/miniALU_tb.sv,1794161000,systemVerilog,,,,miniALU_tb,,uvm,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ambre/project_1actual/project_1actual.srcs/sources_1/new/displayEncoder.sv,1794611490,systemVerilog,,C:/Users/ambre/project_1actual/project_1actual.srcs/sources_1/new/sevenSegDigit.sv,,displayEncoder,,uvm,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ambre/project_1actual/project_1actual.srcs/sources_1/new/miniALU.sv,1794611076,systemVerilog,,C:/Users/ambre/project_1actual/project_1actual.srcs/sim_1/imports/DAV LAB 1/miniALU_tb.sv,,miniALU,,uvm,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ambre/project_1actual/project_1actual.srcs/sources_1/new/sevenSegDigit.sv,1794611478,systemVerilog,,C:/Users/ambre/project_1actual/project_1actual.srcs/sim_1/imports/DAV LAB 1/display_tb.sv,,sevenSegDigit,,uvm,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

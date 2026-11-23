@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Time=0 result=   2345 displayBits = '{36,48,25,18}
+Time=20000 result=   6789 displayBits = '{2,120,0,16}
+$finish called at time : 40 ns : File "C:/Users/ambre/project_1actual/project_1actual.srcs/sim_1/imports/DAV LAB 1/display_tb.sv" Line 41
